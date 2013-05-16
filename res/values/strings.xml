@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">SocetSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_server">ServerActivity</string>
+    <string name="title_activity_clinet">ClinetActivity</string>
+
+</resources>
